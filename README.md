@@ -1,62 +1,49 @@
-<div align="center">
-
 # Tyson Caves
 
-**AI Systems Builder · Open Source Security · Santa Barbara, CA**
+**Santa Barbara, CA · tyson.caves@gmail.com**
 
-*Building the infrastructure layer between humans and AI agent swarms*
+I build things with AI before anyone else knows they should exist.
 
-[![GitHub followers](https://img.shields.io/github/followers/cusscaves?style=flat&color=1a1a2e&labelColor=333)](https://github.com/cusscaves)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-cusscaves-ea4aaa?style=flat&logo=github-sponsors)](https://github.com/sponsors/cusscaves)
-
-</div>
+Not demos. Not tutorials. Systems — autonomous agents, influence platforms, dispatch layers, capture pipelines — running on free credits, built overnight, shipping results by morning.
 
 ---
 
-### What I build
+## What I've Built
 
-I'm an AI-native builder focused on local-first agent systems — tools that give individuals the power of an entire dev team without sending their ideas to the cloud. My work lives at the intersection of security infrastructure, AI orchestration, and personal automation.
+**SWAY** — Influence monetization platform. Your attention has a dollar value. I built the formula, the currency system (SALT), and the full ocean metaphor architecture (TIDE, WAKE, DEPTH, RIPPLE, WAVE) to quantify and trade influence between creators and brands. First documented November 2025.
 
-I don't build demos. I build things that run overnight and ship results in the morning.
+**RickNet** — Multi-agent FIX-FINISH system. Filesystem intelligence + AI executor + MCP server. 1.8 million files indexed. Built a dispatch layer on top of the OS so tasks route themselves.
 
----
+**OpenClaw / Allotta** — Personal autonomous agent stack running on free model tiers (Groq, Cerebras, Gemini, Ollama). Full agent gateway on localhost. Telegram interface. Routes tasks across providers without touching paid APIs.
 
-### Open Source
+**RAMBO** — Meta-cognitive self-audit system for AI agents. CGM-style automated constraint checking. The agent that watches the agents.
 
-**[cve-search/cve-search](https://github.com/cve-search/cve-search)** · Python · ⭐ 2.6k  
-Core contributor to the foundational tool for local, private vulnerability mapping. Used by security teams worldwide to perform CVE audits without exposing sensitive infrastructure queries to external APIs.
+**Deekan** — AI-powered screen memory with multi-model Ponder feature. Persistent context layer for everything you see on your computer.
 
----
+**BIGTERM** — Terminal management suite. Environment switching, tool launching, context generation. The terminal that knows what you're trying to do.
 
-### Active Projects *(in development)*
+**LLM Dorado** — AI infrastructure brand. Domain registered. Coming.
 
-**Dreaming AI** — An emotional salience memory architecture for AI systems. During idle cycles, the system audits stored context and surfaces what was missed, underweighted, or emotionally significant. Novel architecture. Priority date: Feb 27, 2026.
-
-**LLM Dorado** — Client-side AI obfuscation and local execution bridge. Your ideas never reach the cloud in readable form. Execution happens entirely on your hardware.
-
-**SKEWL** — Multi-agent dispatch system built around the school metaphor. Principal routes. Hall Monitor enforces. Librarian feeds context. A framework for managing agent fleets at scale.
-
-**RickNet** — Multi-agent filesystem intelligence and orchestration backbone.
-
-**Deekan** — AI screen memory system. Records what you see, makes it searchable and actionable locally.
+**SKEWL** — Multi-agent persona system. Different agents, different roles, one coordinated brain.
 
 ---
 
-### Philosophy
+## How I Work
 
-> "Build systems that run forever, not one-time tasks."  
-> "Context is king — never lose it."  
-> "Never ship without an audit."
+I run agent swarms on free credits. I build local-first — no cloud dependency, no subscription lock-in. I use voice transcription → clipboard capture → AI pipeline as a raw idea intake system. I don't plan until I've already started.
+
+My stack: M1 MacBook, Ollama (8+ local models), OpenRouter, Claude, Groq, Cerebras, VS Code + Cline, MCP servers, Obsidian vault, SuperWhisper.
+
+My methodology: verify first, ship small things that work, never lose context.
 
 ---
 
-### Contact
+## Active
 
-- **Email:** tyson.caves@gmail.com
-- **Sponsors:** [github.com/sponsors/cusscaves](https://github.com/sponsors/cusscaves)
+- Building the SWAY Value Calculator — what is your influence actually worth to a brand?
+- - Developing Mystic Consulting — harbor services partnership, Santa Barbara
+  - - SEO infrastructure for moving companies
+   
+    - ---
 
-<div align="center"><br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cusscaves&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-</div>
+    *If you're a founder, investor, or builder who thinks in systems — let's talk.*
